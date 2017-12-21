@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.theIntro {
+  text-align: center;
+  color: aliceblue;
+  font-size: 30px;
+  font-family: "Open Sans";
+  text-shadow: 2px 2px 2px black;
+  background-color: #777;
+  border:solid transparent;
+  border-radius: 25px;
+  padding: 10px;
+  margin-top: 20%;
+  margin-left: 20%;
+  margin-right: 20%;
+  box-shadow: 8px 12px 30px black;
+}
